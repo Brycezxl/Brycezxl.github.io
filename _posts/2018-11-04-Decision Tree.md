@@ -1,6 +1,5 @@
 ---
 title: Decision Tree
-description: Decision Tree
 categories:
  - 新手村
 tags:

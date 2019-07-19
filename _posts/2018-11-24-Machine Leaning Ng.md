@@ -1,6 +1,5 @@
 ---
 title: Ng Machine Learning
-description: 吴恩达coursera
 categories:
  - 新手村
 tags:
