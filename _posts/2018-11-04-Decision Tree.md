@@ -1,23 +1,21 @@
 ---
-layout : article
-title  : Decision Tree
-key    : 20181104
-tag    : 入门
-sidebar:
-  nav  : docs-en   
 title: Decision Tree
 description: Decision Tree
+categories:
+ - 新手村
 tags:
  - 新手村
- - 机器学习
 ---
 
-#### Introduce 3 algorithms of Decision Tree.
+Introduce 3 algorithms of Decision Tree.
+
 <br />
 
 <!--more-->
 
 ***
+
+
 ## ID3
 
 算法的过程为：

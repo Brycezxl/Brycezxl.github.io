@@ -1,6 +1,8 @@
 ---
 title: Aspect Extraction
 description: 几篇SOTA论文笔记
+categories:
+ - ABSA
 tags:
  - ABSA
 ---

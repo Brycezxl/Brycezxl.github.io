@@ -1,6 +1,8 @@
 ---
 title: Python代码风格规范
 description: Python代码风格规范
+categories:
+ - 新手村
 tags:
  - 新手村
 ---

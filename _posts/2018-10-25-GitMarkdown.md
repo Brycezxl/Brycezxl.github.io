@@ -1,6 +1,8 @@
 ---
 title: Markdown语法(Github)
 description: This file briefly introduces Markdown primary gramma on Github.
+categories:
+ - 新手村
 tags:
  - 新手村
 ---
