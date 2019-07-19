@@ -5,9 +5,7 @@ categories:
 tags:
  - 新手村
 ---
-Hello World!
-{:.success}
-
+Hello World ! MY FIRST BLOG ! 
 <!--more-->
 
 ***

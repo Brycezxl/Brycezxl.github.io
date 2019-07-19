@@ -6,11 +6,7 @@ tags:
  - ABSA
 ---
 
-
-
-几篇SOTA论文笔记
-
-<br />
+Aspect提取与情感分析的三篇SOTA（2018）论文笔记。
 
 <!--more-->
 

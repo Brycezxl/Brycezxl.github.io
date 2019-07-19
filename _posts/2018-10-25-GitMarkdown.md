@@ -6,8 +6,7 @@ tags:
  - 新手村
 ---
 
-#### This file briefly introduces Markdown primary gramma on Github.
-<br />
+简单记录了github里一些基本的markdown语法， markdown用不好怎么写博客！
 
 <!--more-->
 

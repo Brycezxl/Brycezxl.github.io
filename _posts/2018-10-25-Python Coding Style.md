@@ -6,13 +6,10 @@ tags:
  - 新手村
 ---
 
-#### 总结了易忽略的几个点。
-
-[Google开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/#id1)
-
-<br />
+从[Google开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/#id1)找了几个容易忽略的代码规范，代码不规范，队友两行泪。
 
 <!--more-->
+
 1. 每行不超过80个字符(例外:长的导入模块语句,注释里的URL)
 2. 当’=’用于指示关键字参数或默认参数值时, 不要在其两侧使用空格
 3. 每节应该以一个标题行开始. 标题行以冒号结尾. 除标题行外, 节的其他内容应被缩进2个空格

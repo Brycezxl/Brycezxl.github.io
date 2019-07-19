@@ -6,9 +6,7 @@ tags:
  - 新手村
 ---
 
-Introduce 3 algorithms of Decision Tree.
-
-<br />
+记录了三种决策树：ID3，C4.5，CART与他们之间的比较，以及剪枝方法。
 
 <!--more-->
 

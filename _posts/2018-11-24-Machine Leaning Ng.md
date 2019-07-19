@@ -5,8 +5,7 @@ categories:
 tags:
  - 新手村
 ---
-吴恩达coursera
-{:.success}
+记录了吴恩达coursera最后几节(水)课，包括svm的简单介绍，数据集划分，过拟合和欠拟合的区分，模型优化方法。
 
 <!--more-->
 
