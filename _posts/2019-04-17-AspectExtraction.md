@@ -1,7 +1,5 @@
 ---
 title: Aspect Extraction
-categories:
- - ABSA
 tags:
  - ABSA
 ---

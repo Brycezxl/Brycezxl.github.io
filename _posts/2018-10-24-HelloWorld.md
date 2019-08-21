@@ -1,7 +1,5 @@
 ---
 title: Hello World！
-categories:
- - 新手村
 tags:
  - 新手村
 ---

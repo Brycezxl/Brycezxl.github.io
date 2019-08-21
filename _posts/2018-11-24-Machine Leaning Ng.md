@@ -1,7 +1,5 @@
 ---
 title: Ng Machine Learning
-categories:
- - 新手村
 tags:
  - 新手村
 ---
